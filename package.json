@@ -1,0 +1,28 @@
+{
+  "name": "@womhla6s/ui-modules-rllogout",
+  "version": "1.0.0",
+  "description": "ui-modules-rllogout on frontend relbas",
+  "main": "ui-modules-rllogout.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ui",
+    "ux",
+    "module",
+    "bootstrap"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/womhla6s/ui-modules-rllogout.git"
+  },
+  "author": "womhla6s",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/womhla6s/ui-modules-rllogout/issues"
+  },
+  "homepage": "https://github.com/womhla6s/ui-modules-rllogout#readme",
+  "dependencies": {
+    "ui-modules-cli": "^1.0.1"
+  }
+}
